@@ -8,11 +8,11 @@ To get started with building RisingOS GSI, you'll need to get familiar with [Git
     ```
 - Clone this repo:
     ```
-    git clone https://github.com/ponces/treble_aosp -b android-15.0
+    git clone https://github.com/balazskokai/treble_risingos -b android-15.0
     ```
 - Finally, start the build script:
     ```
-    bash treble_aosp/build.sh
+    bash treble_risingos/build.sh
     ```
 
 ## Issues
