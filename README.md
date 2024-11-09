@@ -1,7 +1,7 @@
-# TrebleDroid AOSP GSI
+# TrebleDroid RisingOS GSI
 
 ## Build
-To get started with building AOSP GSI, you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html) as well as [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
+To get started with building RisingOS GSI, you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html) as well as [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
 - Create a new working directory for your AOSP build and navigate to it:
     ```
     mkdir aosp; cd aosp
@@ -16,7 +16,7 @@ To get started with building AOSP GSI, you'll need to get familiar with [Git and
     ```
 
 ## Issues
-[Open issue](https://github.com/ponces/treble_aosp/issues/new/choose)
+[Open issue](https://github.com/balazskokai/treble_risingos/issues/new/choose)
 
 ## Credits
 These people have helped this project in some way or another, so they should be the ones who receive all the credit:
