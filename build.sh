@@ -1,13 +1,5 @@
 #!/bin/bash
 
-echo
-echo "--------------------------------------"
-echo "          AOSP 15.0 Buildbot          "
-echo "                  by                  "
-echo "                ponces                "
-echo "--------------------------------------"
-echo
-
 set -e
 
 BL=$PWD/treble_risingos
