@@ -43,8 +43,8 @@ applyPatches() {
 
     echo "--> Generating makefiles"
     cd device/phh/treble
-    cp $BL/build/aosp.mk .
-    bash generate.sh aosp
+    cp $BL/build/RisingOS.mk .
+    bash generate.sh RisingOS
     cd ../../..
     echo
 }
