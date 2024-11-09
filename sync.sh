@@ -2,7 +2,7 @@
 
 set -e
 
-BL=$PWD/treble_aosp
+BL=$PWD/treble_risingos
 TD="android-15.0"
 
 initRepos() {
