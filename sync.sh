@@ -1,13 +1,5 @@
 #!/bin/bash
 
-echo
-echo "--------------------------------------"
-echo "          AOSP 15.0 Syncbot           "
-echo "                  by                  "
-echo "                ponces                "
-echo "--------------------------------------"
-echo
-
 set -e
 
 BL=$PWD/treble_aosp
